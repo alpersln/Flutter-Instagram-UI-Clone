@@ -16,7 +16,7 @@ class CircleStories extends StatelessWidget {
             height: 50,
             decoration: BoxDecoration(
               shape: BoxShape.circle,
-              color: Colors.purpleAccent,
+              color: Colors.grey[300],
             ),
           ),
           SizedBox(
